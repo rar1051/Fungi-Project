@@ -1,13 +1,19 @@
-name: "my-website"
+name: "Fungi Website"
 output_dir: "docs" 
 navbar:
-  title: "My Website"
+  title: "Fungi Website"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Amanitas"
       href: about.html
     - text: "Beta"
       href: beta.html
-    
-
+    - text: "Four"
+      href: four.html    
+    - text: "Five"
+      href: five.html
+    - text: "Six"
+      href: six.html
+    - text: "Seven"
+      href: seven.html
