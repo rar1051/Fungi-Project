@@ -5,14 +5,23 @@ output:
     theme: flatly
 ---
 
-##Amanitas is the name of a genus of mushrooms that account for a significant portion of mushroom poisonings. Here specifically we are focused on one species within the genus, 
+## Amanitas is the name of a genus of mushrooms that account for a significant portion of mushroom poisonings. Here specifically we are focused on one species within the genus, 
+
+
  
  
 # Amanita chrysoblema
 
+
+
 ### This mushroom is native to the eastern portion of North America, spanning from Canada to northern Florida and as far west as Michigan.
 
+
+
 The Amanita chrysoblema is a small mushroom with an orange or yellow cap with white specks across the top. This mushroom also has gils underneath the cap. The gils are the structures that hold the spores of the mushroom, these spores get released and disperse, spreading the genetic material of the fungi so new mushrooms can grow elsewhere. 
+
+
+
 
 It is important to note that the mushroom that we see above ground is not the entire fungi. The mushroom is only one component, the fruiting body specifically of a larger network of fungal cells called hyphae which together form a mycelium growing underground!
 
@@ -21,3 +30,6 @@ It is important to note that the mushroom that we see above ground is not the en
 knitr::include_graphics("/Users/rileyrocha/Desktop/BIOL 706/Fungi Semester Project/amanita.jpg")
 ```
 
+```{r echo=FALSE, out.width = "30%", fig.align = "center"}
+knitr::include_graphics("/Users/rileyrocha/Desktop/BIOL 706/Fungi Semester Project/mushroom_mycelium.jpeg")
+```
