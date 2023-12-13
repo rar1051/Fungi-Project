@@ -1,11 +1,20 @@
 ---
-title: "My Website"
+title: "Fungal Guide"
+output: 
+  html_document: 
+    theme: flatly
 ---
+<div align="center">
 
-# Hello!
+$$\\[0.15in]$$
 
-# This website is meant to serve as a guide to the amazing world of fungi!!
+# Welcome to the World of Fungi
+
+
+$$\\[0.15in]$$
 
 ## Fungi are all around us, they appear as mushrooms, molds, mildews and more! There is fungi in our food, medicine, and even in our homes. 
+
+$$\\[0.15in]$$
 
 ### This website is meant to serve as an introductory guide to just some of the hundreds of fungi that inhabit the state of New Hampshire. 

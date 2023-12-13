@@ -1,28 +1,53 @@
 ---
-title: "five"
-output: html_document
+title: "Wheat Stem Rust"
+output: 
+  html_document: 
+    theme: flatly
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+<div align="center">
+
+# Wheat Stem Rust
+
+$$\\[0.15in]$$
+
+## Wheat Stem Rust is another plant disease affecting regions across North America, including New Hampshire. 
+
+$$\\[0.15in]$$
+
+### Wheat stem rust is historically a very important plant disease. Caused by the fungus  Puccinia graminis f. sp. tritici, this pathogen infects wheat plants and destroys the harvestable material. 
+
+$$\\[0.15in]$$
+
+Like Rhizosphaera in needle cast, Puccinia graminis in wheat stem rust infects succeptible plants and parasitizes the organism. When infected, urediniospores break through the epidermis of the plant as small black or reddish lesions, giving a rust like 
+appearance. 
+
+
+$$\\[0.15in]$$
+```{r echo=FALSE, out.width = "80%", fig.align = "center"}
+knitr::include_graphics("/Users/rileyrocha/Desktop/BIOL 706/Fungi Semester Project/wheat stem rust.jpeg")
 ```
 
-## R Markdown
+$$\\[0.15in]$$
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Interestingly,unlike Rhizosphaera that is able to survive only on spruce trees, Puccinia graminis has what is called a **polycyclic** disease cycle. Meaning that the fungus infects more than one type of organism. 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+$$\\[0.15in]$$
 
-```{r cars}
-summary(cars)
-```
+In the case of wheat stem rust, the fungus cycles though infecting the wheat plants and the secondary host is Barberry plants. It is very dangerous to have barberry plants near a wheat field because the barberry can host spores that can travel via the wind to infect the wheat. 
 
-## Including Plots
+$$\\[0.15in]$$
 
-You can also embed plots, for example:
+Wheat stem rust is not as dangerous a it once used to be. New resistant plant strains help prevent infection and spread, but left untreated wheat stem rust has the possibility to reduce yields up to 90%. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+$$\\[0.15in]$$
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+While this fungus is primarily a plant pathogen, it is very dangerous to humans since it has the possibility to decimate our food source. 
+
+$$\\[0.15in]$$
+
+
+
+
+
+

@@ -7,13 +7,11 @@ navbar:
       href: index.html
     - text: "Amanitas"
       href: about.html
-    - text: "Beta"
+    - text: "Hericium"
       href: beta.html
-    - text: "Four"
+    - text: "Needle Cast"
       href: four.html    
-    - text: "Five"
+    - text: "Wheat Stem Rust"
       href: five.html
-    - text: "Six"
+    - text: "Brown Rot"
       href: six.html
-    - text: "Seven"
-      href: seven.html

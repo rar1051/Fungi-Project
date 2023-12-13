@@ -1,28 +1,34 @@
 ---
-title: "beta"
-output: html_document
+title: "Hericium"
+output: 
+  html_document: 
+    highlight: tango
+    theme: flatly
 ---
+<div align="center">
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+
+## Boar's Head Tooth...aka 
+# Hericium americanus 
+
+$$\\[0.15in]$$
+
+### Wild Boar's Head Tooth looks rather strange, and unlike the amanita species, however it is still considered a mushroom! 
+
+$$\\[0.15in]$$
+
+#### Hericium americanus is a species local to the northern United States as well as Canada, and while at first it may not seem like it, it is actually a mushroom! 
+
+$$\\[0.15in]$$
+
+#### This species belongs to a special group of mushrooms described as **sessile** meaning they are stalkless mushrooms! While they do not have the typical presentation of a cap and stalk, they still produce spores and function as a reproductive structure
+
+$$\\[0.15in]$$
+
+```{r echo=FALSE, out.width = "30%", fig.align = "center"}
+knitr::include_graphics("/Users/rileyrocha/Desktop/BIOL 706/Fungi Semester Project/boars_head.jpeg")
 ```
 
-## R Markdown
+$$\\[0.15in]$$
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+#### Additionally, unlike the amanitas mushrooms, the Boar's Head Tooth are safe to consume and some have said they have a unique seafood taste! 

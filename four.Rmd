@@ -1,28 +1,43 @@
 ---
-title: "four"
-output: html_document
+title: "Needle Cast"
+output: 
+  html_document: 
+    theme: flatly
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+<div align="center">
+
+
+# Needle Cast
+
+$$\\[0.15in]$$
+
+## Needle Cast is a disease infecting spruce trees throughout North America
+
+$$\\[0.15in]$$
+
+### Needle cast is caused by a fungal infection. A fungus from the genus Rhizosphaera is responsible for infecting weaked spruce trees and causing the needles to fall off the tree.
+
+$$\\[0.15in]$$
+
+### Needle cast is an example of a **Pathogenic Fungi** . Or in other words, a fungus that causes disease in another organism. Fungi can be pathogenic to plants, animals and even humans! 
+
+$$\\[0.15in]$$
+
+```{r echo=FALSE, out.width = "30%", fig.align = "center"}
+knitr::include_graphics("/Users/rileyrocha/Desktop/BIOL 706/Fungi Semester Project/rhizosphaera.jpeg")
+
+```
+$$\\[0.15in]$$
+
+The Rhizosphaera fungi are different than those we have looked at previously. Instead of growing in the ground and producing mushrooms in order to spread spores, they infect and live within spruce trees. However, they still need a way to reproduce, the way these fungi do this is they utilize the tiny pores on the underside of the spruce needles.
+
+Typically these pores are used for gas exchange, to help the plant breathe. When Rhizosphaera takes over however, it uses these pores to expel tiny structures called pycnidia which house the spores. 
+
+$$\\[0.15in]$$
+
+```{r echo=FALSE, out.width = "60%", fig.align = "center"}
+knitr::include_graphics("/Users/rileyrocha/Desktop/BIOL 706/Fungi Semester Project/pycnidia.jpeg")
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
