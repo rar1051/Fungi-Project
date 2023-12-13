@@ -1,28 +1,45 @@
 ---
-title: "six"
-output: html_document
+title: "Brown Rot"
+output: 
+  html_document: 
+    theme: flatly
 ---
+<div align="center">
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+# Brown Rot Fungi
+
+$$\\[0.15in]$$
+
+### Fungi can be pathogens as we have discussed but they can also be incredibly helpful. Fungi are actually necessary to the natural world to maintain the balance of the nutrient and energy cycle. 
+
+$$\\[0.15in]$$
+
+Fungi are decomposers, so they have the ability to consume and therefore breakdown organic materials, releasing the nutrients and minerals within the organisms body to the environment. 
+
+$$\\[0.15in]$$
+
+One specific example is **brown rot fungi**. There are several species of fungi that are considered brown rot fungi but they all perform the same work. They decompose the cell walls of trees, specifically softwoods. 
+
+$$\\[0.15in]$$
+
+When this process is occurring the wood of the tree darkens and breaks down into cubical almost geometric pieces. 
+
+$$\\[0.15in]$$
+
+```{r echo=FALSE, out.width = "80%", fig.align = "center"}
+knitr::include_graphics("/Users/rileyrocha/Desktop/BIOL 706/Fungi Semester Project/brown rot.webp")
 ```
 
-## R Markdown
+$$\\[0.15in]$$
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+The decomposed material from brown rot remains in the soil for decades. It composes the layer of soil called **humus** and is rich in nutrients and moisture for the next generation of organisms to grow there. 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+$$\\[0.15in]$$
 
-```{r cars}
-summary(cars)
+### Without fungi there would be no decomposition of organic materials and energy and nutrients would be trapped. This would make it nearly impossible for new life on Earth. 
+
+$$\\[0.15in]$$
+
+```{r echo=FALSE, out.width = "80%", fig.align = "center"}
+knitr::include_graphics("/Users/rileyrocha/Desktop/BIOL 706/Fungi Semester Project/cycle .jpg")
 ```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
